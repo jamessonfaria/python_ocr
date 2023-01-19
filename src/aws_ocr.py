@@ -32,3 +32,21 @@ for block in blocks:
 print(word)
 print("\n --------------------------------------- \n")
 print(line)
+
+# create a client for comprehend
+comprehend = boto3.client('comprehend')
+
+# call comprehend on the text
+response_sentiment = comprehend.detect_sentiment(
+    Text=line,
+    LanguageCode='pt'
+)
+
+response_entities = comprehend.detect_entities(
+    Text=line,
+    LanguageCode='pt'
+)
+
+print(response_sentiment)
+print("\n --------------------------------------- \n")
+print(response_entities)

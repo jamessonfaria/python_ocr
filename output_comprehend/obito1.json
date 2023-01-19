@@ -1,0 +1,338 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4784940183162689,
+            "Type": "ORGANIZATION",
+            "Text": "PERSONS 33°",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8123528957366943,
+            "Type": "ORGANIZATION",
+            "Text": "DEPARTMENT REPUBLICA FEDERATIVA DO BRASIL REGISTRO CIVIL DAS", "BeginOffset": 12, "EndOffset": 72}, {"Score": 0.8246269822120667, "Type": "QUANTITY", "Text": "6BITO", "BeginOffset": 115, "EndOffset": 120}, {"Score": 0.7806289792060852, "Type": "OTHER", "Text": "SE10", "BeginOffset": 138, "EndOffset": 142}, {"Score": 0.8416562080383301, "Type": "LOCATION", "Text": "BRANCH", "BeginOffset": 178, "EndOffset": 184}, {"Score": 0.3574696183204651, "Type": "OTHER", "Text": "041", "BeginOffset": 194, "EndOffset": 197}, {"Score": 0.5748559236526489, "Type": "ORGANIZATION", "Text": "ELEITOR FARTURA", "BeginOffset": 252, "EndOffset": 267}, {"Score": 0.3710596561431885, "Type": "LOCATION", "Text": "SP NA04", "BeginOffset": 268, "EndOffset": 275}, {"Score": 0.9687776565551758, "Type": "PERSON", "Text": "Thomas Pales", "BeginOffset": 309, "EndOffset": 321}, {"Score": 0.9888755083084106, "Type": "PERSON", "Text": "Maria de Carvalino Roche", "BeginOffset": 330, "EndOffset": 354}, {"Score": 0.9795892834663391, "Type": "QUANTITY",
+            "Text": "145 HORTENCIAS",
+            "BeginOffset": 373,
+            "EndOffset": 387
+        },
+        {
+            "Score": 0.9308016896247864,
+            "Type": "QUANTITY",
+            "Text": "100 DATA",
+            "BeginOffset": 388,
+            "EndOffset": 396
+        },
+        {
+            "Score": 0.6987174153327942,
+            "Type": "QUANTITY",
+            "Text": "MIL NOVECENTES E SETENTA",
+            "BeginOffset": 455,
+            "EndOffset": 479
+        },
+        {
+            "Score": 0.7400222420692444,
+            "Type": "DATE",
+            "Text": "5 20: 45",
+            "BeginOffset": 488,
+            "EndOffset": 496
+        },
+        {
+            "Score": 0.9691672325134277,
+            "Type": "OTHER",
+            "Text": "22 01 1971",
+            "BeginOffset": 505,
+            "EndOffset": 515
+        },
+        {
+            "Score": 0.9977483749389648,
+            "Type": "QUANTITY",
+            "Text": "1416 m",
+            "BeginOffset": 572,
+            "EndOffset": 578
+        },
+        {
+            "Score": 0.9040293097496033,
+            "Type": "ORGANIZATION",
+            "Text": "MUNICHPIC",
+            "BeginOffset": 649,
+            "EndOffset": 658
+        },
+        {
+            "Score": 0.4734680652618408,
+            "Type": "ORGANIZATION",
+            "Text": "H FARTURA",
+            "BeginOffset": 704,
+            "EndOffset": 713
+        },
+        {
+            "Score": 0.7663717269897461,
+            "Type": "PERSON",
+            "Text": "PAULO ADEMAR LUIZ CARLOS DALLA WALLE NONE",
+            "BeginOffset": 720,
+            "EndOffset": 761
+        },
+        {
+            "Score": 0.9532334208488464,
+            "Type": "OTHER",
+            "Text": "0 49170",
+            "BeginOffset": 806,
+            "EndOffset": 813
+        },
+        {
+            "Score": 0.7689996361732483,
+            "Type": "PERSON",
+            "Text": "Dr.",
+            "BeginOffset": 814,
+            "EndOffset": 817
+        },
+        {
+            "Score": 0.9803600907325745,
+            "Type": "PERSON",
+            "Text": "MARIO SANTALUCIA",
+            "BeginOffset": 818,
+            "EndOffset": 834
+        },
+        {
+            "Score": 0.9815683364868164,
+            "Type": "OTHER",
+            "Text": "C-0032",
+            "BeginOffset": 902,
+            "EndOffset": 908
+        },
+        {
+            "Score": 0.5962969660758972,
+            "Type": "OTHER",
+            "Text": "509",
+            "BeginOffset": 924,
+            "EndOffset": 927
+        },
+        {
+            "Score": 0.5313339829444885,
+            "Type": "OTHER",
+            "Text": "38054",
+            "BeginOffset": 931,
+            "EndOffset": 936
+        },
+        {
+            "Score": 0.8928658962249756,
+            "Type": "DATE",
+            "Text": "1971",
+            "BeginOffset": 949,
+            "EndOffset": 953
+        },
+        {
+            "Score": 0.5911036729812622,
+            "Type": "QUANTITY",
+            "Text": "24",
+            "BeginOffset": 990,
+            "EndOffset": 992
+        },
+        {
+            "Score": 0.989619255065918,
+            "Type": "QUANTITY",
+            "Text": "$10",
+            "BeginOffset": 1003,
+            "EndOffset": 1006
+        },
+        {
+            "Score": 0.46702536940574646,
+            "Type": "ORGANIZATION",
+            "Text": "Pauls",
+            "BeginOffset": 1007,
+            "EndOffset": 1012
+        },
+        {
+            "Score": 0.8632328510284424,
+            "Type": "PERSON",
+            "Text": "MARI LUIZA LUCARELLI ROCHA",
+            "BeginOffset": 1018,
+            "EndOffset": 1044
+        },
+        {
+            "Score": 0.9917237162590027,
+            "Type": "PERSON",
+            "Text": "Sergia Lair",
+            "BeginOffset": 1089,
+            "EndOffset": 1100
+        },
+        {
+            "Score": 0.9398070573806763,
+            "Type": "PERSON",
+            "Text": "Daniela",
+            "BeginOffset": 1103,
+            "EndOffset": 1110
+        },
+        {
+            "Score": 0.6918678283691406,
+            "Type": "OTHER",
+            "Text": "330",
+            "BeginOffset": 1250,
+            "EndOffset": 1253
+        },
+        {
+            "Score": 0.5183550119400024,
+            "Type": "ORGANIZATION",
+            "Text": "ALTD",
+            "BeginOffset": 1268,
+            "EndOffset": 1272
+        },
+        {
+            "Score": 0.27557480335235596,
+            "Type": "ORGANIZATION",
+            "Text": "MODCA",
+            "BeginOffset": 1275,
+            "EndOffset": 1280
+        },
+        {
+            "Score": 0.467335969209671,
+            "Type": "LOCATION",
+            "Text": "SAI",
+            "BeginOffset": 1283,
+            "EndOffset": 1286
+        },
+        {
+            "Score": 0.4333702623844147,
+            "Type": "ORGANIZATION",
+            "Text": "PAULO",
+            "BeginOffset": 1287,
+            "EndOffset": 1292
+        },
+        {
+            "Score": 0.9951574802398682,
+            "Type": "DATE",
+            "Text": "08 . fevereiro 2013",
+            "BeginOffset": 1298,
+            "EndOffset": 1317
+        },
+        {
+            "Score": 0.8604183793067932,
+            "Type": "PERSON",
+            "Text": "Verderamo Marques",
+            "BeginOffset": 1326,
+            "EndOffset": 1343
+        },
+        {
+            "Score": 0.9754736423492432,
+            "Type": "OTHER",
+            "Text": "3878",
+            "BeginOffset": 1369,
+            "EndOffset": 1373
+        },
+        {
+            "Score": 0.6616069078445435,
+            "Type": "OTHER",
+            "Text": "03165002",
+            "BeginOffset": 1396,
+            "EndOffset": 1404
+        },
+        {
+            "Score": 0.9823535680770874,
+            "Type": "OTHER",
+            "Text": "(11) 2600-2909",
+            "BeginOffset": 1415,
+            "EndOffset": 1429
+        },
+        {
+            "Score": 0.9704585671424866,
+            "Type": "PERSON",
+            "Text": "Baniella",
+            "BeginOffset": 1430,
+            "EndOffset": 1438
+        },
+        {
+            "Score": 0.8453308939933777,
+            "Type": "PERSON",
+            "Text": "Roberts",
+            "BeginOffset": 1446,
+            "EndOffset": 1453
+        },
+        {
+            "Score": 0.8832753896713257,
+            "Type": "QUANTITY",
+            "Text": "R$ 19.30 33.°",
+            "BeginOffset": 1500,
+            "EndOffset": 1513
+        },
+        {
+            "Score": 0.9028280973434448,
+            "Type": "LOCATION",
+            "Text": "Alto da Moôca",
+            "BeginOffset": 1529,
+            "EndOffset": 1542
+        },
+        {
+            "Score": 0.6836509108543396,
+            "Type": "ORGANIZATION",
+            "Text": "IPESP",
+            "BeginOffset": 1546,
+            "EndOffset": 1551
+        },
+        {
+            "Score": 0.5611054301261902,
+            "Type": "QUANTITY",
+            "Text": "3.85",
+            "BeginOffset": 1555,
+            "EndOffset": 1559
+        },
+        {
+            "Score": 0.6308299899101257,
+            "Type": "OTHER",
+            "Text": "Fone 2601-2909",
+            "BeginOffset": 1560,
+            "EndOffset": 1574
+        },
+        {
+            "Score": 0.9740591645240784,
+            "Type": "QUANTITY",
+            "Text": "23.15",
+            "BeginOffset": 1581,
+            "EndOffset": 1586
+        },
+        {
+            "Score": 0.949329137802124,
+            "Type": "LOCATION",
+            "Text": "Rua da Mooca",
+            "BeginOffset": 1587,
+            "EndOffset": 1599
+        },
+        {
+            "Score": 0.4963265061378479,
+            "Type": "OTHER",
+            "Text": "3878",
+            "BeginOffset": 1600,
+            "EndOffset": 1604
+        },
+        {
+            "Score": 0.7501125335693359,
+            "Type": "LOCATION",
+            "Text": "Capital",
+            "BeginOffset": 1607,
+            "EndOffset": 1614
+        },
+        {
+            "Score": 0.9949525594711304,
+            "Type": "DATE",
+            "Text": "02 /2013",
+            "BeginOffset": 1621,
+            "EndOffset": 1629
+        },
+        {
+            "Score": 0.9765393733978271,
+            "Type": "DATE",
+            "Text": "2001",
+            "BeginOffset": 1645,
+            "EndOffset": 1649
+        }
+    ],
+    "ResponseMetadata": {
+        "RequestId": "5089546f-dad8-4f2a-bdda-da2855b72c98",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "5089546f-dad8-4f2a-bdda-da2855b72c98",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "5591",
+            "date": "Thu, 19 Jan 2023 20:46:46 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
